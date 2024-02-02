@@ -1,2 +1,2 @@
 # My-Vision
-Belajar tidak pernah usai
+Kumpulan Materi Tentang Komputer Vision dengan modul opencv sebagai modul utamanya
